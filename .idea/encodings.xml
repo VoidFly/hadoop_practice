@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/relation/Intersection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/relation/NaturalJoin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/relation/Projection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/relation/RelationA.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/relation/Selection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/relation/SingleFileNameReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/relation/WholeFileInputFormat.java" charset="UTF-8" />
+  </component>
+</project>
