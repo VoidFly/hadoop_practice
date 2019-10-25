@@ -77,8 +77,7 @@ public class NaturalJoin {
 					setA.add(new RelationA(recordInfo[1].toString()));
 				else
 					setB.add(new RelationB(recordInfo[1].toString()));
-				//分割后，如果val中存在不同的relationName，就把val中那些属性用getattr方式拼接成一个String
-				//然后write就可以了
+
 			}
 			//做笛卡尔乘积
 			for (int i = 0; i < setA.size(); i++) {
